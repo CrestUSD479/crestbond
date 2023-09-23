@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://www.crestbond.com/project/voter-info</loc>
+<lastmod>2023-09-13T19:00:01-05:00</lastmod>
+</url>
+<url>
 <loc>https://www.crestbond.com/project/renovations</loc>
 <lastmod>2023-09-14T19:00:01-05:00</lastmod>
 </url>
 <url>
-<loc>https://www.crestbond.com/project/the-question</loc>
+<loc>https://www.crestbond.com/project/ballot-question</loc>
 <lastmod>2023-09-15T19:00:01-05:00</lastmod>
 </url>
 <url>
